@@ -1,0 +1,6 @@
+{
+  "name": "KrishiConnect",
+  "description": "Connecting Farmers with Agricultural Experts - Get crop advice, book consultations, and ask agricultural experts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
